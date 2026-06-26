@@ -19,7 +19,7 @@ function Index() {
       <div className="hero">
         <img src="/images/homepage.png" alt="hero" className="hero-img" />
 
-        <div className="hero-content">
+        <div clas sName="hero-content">
           <h1 className="hero-title">Hello User</h1>
           <p className="hero-sub">How can Glam Help you</p>
 
