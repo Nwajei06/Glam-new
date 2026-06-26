@@ -35,7 +35,7 @@ export default function Mainhome() {
           <div className="hero-ctas">
             <NavLink to="https://tally.so/r/LZkKeG"><button className="btn btn-primary">Sign up</button></NavLink>
             <NavLink to="https://tally.so/r/LZkKeGlogin"> <button className="btn btn-ghost">Login</button> </NavLink>
-            <NavLink to="https://tally.so/r/LZkKeGlogin"> <button className="btn btn-ghost">Join waitlist</button> </NavLink>
+            <NavLink to="https://tally.so/r/LZkKeGlogin"> <button className="btn btn-ghost">Join waitlist</button></NavLink>
           </div>
         </div>
 
