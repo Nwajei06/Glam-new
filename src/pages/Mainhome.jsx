@@ -33,8 +33,8 @@ export default function Mainhome() {
           </p>
 
           <div className="hero-ctas">
-            <NavLink to="/signup"><button className="btn btn-primary">Sign up</button></NavLink>
-            <NavLink to="/login"> <button className="btn btn-ghost">Login</button> </NavLink>
+            <NavLink to="https://tally.so/r/LZkKeG"><button className="btn btn-primary">Sign up</button></NavLink>
+            <NavLink to="https://tally.so/r/LZkKeGlogin"> <button className="btn btn-ghost">Login</button> </NavLink>
           </div>
         </div>
 
