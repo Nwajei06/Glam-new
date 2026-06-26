@@ -21,7 +21,9 @@ const Navbar = () => {
 
       <ul className="nav-links">
         <li>
-          <NavLink to="/user" className="nav-link">
+          <NavLink to="/user"
+          onClick={handleUnavailable}
+          className="nav-link">
             Home
           </NavLink>
         </li>
