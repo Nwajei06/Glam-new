@@ -23,19 +23,20 @@ export default function Mainhome() {
         {/* LEFT SECTION */}
         <div className="hero-left">
           <h1 className="hero-title">
-            Your Personal <br /> Dermatologist <br /> Assistance
+            Your Personal Skin <br /> Companion
           </h1>
 
           <p className="hero-desc">
-            Glam is your recommended personal skin care assistant trained and
-            modeled to give you the glow and treatment your skin deserves.
-            Easily track your routines and chat with our bot.
+            Your personal Skin Companion
+
+Glam is an intelligent skincare companion designed to help you better understand your skin, build effective routines, and maintain a consistent, healthy glow.
+Get personalized insights, track your daily routines, and interact with your AI assistant for tailored skincare guidance anytime you need it.
           </p>
 
           <div className="hero-ctas">
             <NavLink to="https://tally.so/r/LZkKeG"><button className="btn btn-primary">Sign up</button></NavLink>
-            <NavLink to="https://tally.so/r/LZkKeGlogin"> <button className="btn btn-ghost">Login</button> </NavLink>
-            <NavLink to="https://tally.so/r/LZkKeGlogin"> <button className="btn btn-ghost">Join waitlist</button></NavLink>
+            <NavLink to="https://tally.so/r/LZkKeG"> <button className="btn btn-ghost">Login</button> </NavLink>
+            <NavLink to="https://tally.so/r/LZkKeG"> <button className="btn btn-ghost">Join waitlist</button></NavLink>
           </div>
         </div>
 
