@@ -34,8 +34,8 @@ Get personalized insights, track your daily routines, and interact with your AI 
           </p>
 
           <div className="hero-ctas">
-            <NavLink to="https://tally.so/r/LZkKeG"><button className="btn btn-primary">Sign up</button></NavLink>
-            <NavLink to="https://tally.so/r/LZkKeG"> <button className="btn btn-ghost">Login</button> </NavLink>
+            {/* <NavLink to="https://tally.so/r/LZkKeG"><button className="btn btn-primary">Sign up</button></NavLink>
+            <NavLink to="https://tally.so/r/LZkKeG"> <button className="btn btn-ghost">Login</button> </NavLink> */}
             <NavLink to="https://tally.so/r/LZkKeG"> <button className="btn btn-ghost">Join waitlist</button></NavLink>
           </div>
         </div>
